@@ -1,4 +1,4 @@
-Number Guesser
+<h1> Number Guesser <h1/>
 
 Desenvolvido em JavaScript, utilizando React e Vite como framework.
 
